@@ -2,10 +2,6 @@
 
 def greeting 
 
-    puts "Hello what is your name?"
-
-    name = gets.chomp
-
-    puts "Hello there #{name}"
+    puts "Hello #{name.chomp.strip}. It's nice to meet you."
 /
 end
