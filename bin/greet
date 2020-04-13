@@ -2,3 +2,12 @@
 require_relative "../lib/greeting.rb"
 
 # code your CLI here!
+
+# Welcoming the user
+welcome
+
+# Capturing the user's data
+name = gets.strip
+
+# Returning the user's data as a greeting
+greeting(name)
