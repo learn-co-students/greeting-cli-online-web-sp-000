@@ -1,5 +1,3 @@
-# Greeting Cli
-
 ## Objectives
 
 1. Build a CLI (command line interface) application.
