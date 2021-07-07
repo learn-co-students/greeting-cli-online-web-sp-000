@@ -1,4 +1,4 @@
-# Greeting Cli
+error # Greeting Cli
 
 ## Objectives
 
